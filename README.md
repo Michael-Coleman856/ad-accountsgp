@@ -39,7 +39,7 @@ For additional information on how these virtual machines and Active Directory we
 
 This project will be utilizing the on-premise Active Directory with two virtual machines; one acting as the Domain Controller and the other VM acting as a client. The project will begin by configuring a Group Policy within Active Directory. </p>
 
-To see how AD was set up, visit the project [Configuring Active Directory within Azure VMs](https://github.com/tylergehm/configure-ad) </p>
+To see how AD was set up, visit the project [Configuring Active Directory within Azure VMs](https://github.com/Michael-Coleman856/configure-ad) </p>
 
 Group Policy in Active Directory is a centralized management feature that allows administrators to enforce security settings, configurations, and user restrictions across domain-joined computers and users from a single console. These instructions guide the configuration of an account lockout policy using a Group Policy Object (GPO), defining the number of failed login attempts before an account locks (threshold), how long it stays locked (duration), and when the failed attempt counter resets—enhancing security against brute-force attacks. By creating or editing a GPO in the Group Policy Management Console, applying it to an Organizational Unit or domain, and forcing a policy update with gpupdate /force, administrators can consistently enforce these lockout rules across the network.</p>
 
