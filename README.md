@@ -1,4 +1,4 @@
-  <img src="https://raw.githubusercontent.com/tylergehm/ad-accountsgp/main/az2.jpg" alt="GitHub banner" style="max-width:100%;height:auto;" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/16eec0e2-5015-46cf-a797-bf6971334925" />
 </p>
 </p>
 
